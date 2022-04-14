@@ -8,7 +8,6 @@ public class ToyProjectTestApplication {
 
     public static void main(String[] args) {
     	// spring!!
-    	
         SpringApplication.run(ToyProjectTestApplication.class, args);
     }
 
